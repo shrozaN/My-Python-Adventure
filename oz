@@ -1,5 +1,4 @@
 # bmi-calculator
-# I made a simple bmi calculator and it was my first repository.
 
 weight = int(input())
 height = float(input())
